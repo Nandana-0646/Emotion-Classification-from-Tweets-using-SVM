@@ -1,6 +1,6 @@
 # Emotion Detection from Tweets using SVM
 
-This project involves building a machine learning model to classify emotions expressed in English-language tweets using **Support Vector Machines (SVM)**. The dataset consists of Twitter messages, each labeled with one of six basic emotions: **anger**, **fear**, **joy**, **love**, **sadness**, and **surprise**.
+This project involves building a machine learning model to classify emotions expressed in English-language tweets using **Support Vector Machines (SVM)**. The dataset consists of Twitter messages, each labeled with one of six basic emotions: **anger**, **fear**, **joy**, **love**, **sad**, and **surprise**.
 
 ## Project Goals
 
@@ -23,7 +23,7 @@ The dataset used in this project can be found on Kaggle:
 | text                            | emotion   |
 |----------------------------------|-----------|
 | i feel awesome                   | joy       |
-| this is the worst day of my life | sadness   |
+| this is the worst day of my life | sad   |
 | i am so scared                   | fear      |
 
 ## How to Use
